@@ -1,0 +1,98 @@
+.H1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size : 60px !important;
+    padding-bottom: 70px;
+    color: aliceblue !important; 
+}
+.container{
+    padding-top: 200px !important ; 
+    height: 50vh;
+}
+.fr{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,77,152,1) 57%, rgba(0,212,255,1) 100%);
+}
+h3{
+    font-family: 'Caveat', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size : 60px !important;
+    margin-top: 60px !important;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 200px;
+}
+.parag{
+    font-size: 20px;
+    padding: 0px 600px;
+    
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,77,152,1) 57%, rgba(0,212,255,1) 100%) !important;
+}
+.btn{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,77,152,1) 57%, rgba(0,212,255,1) 100%) !important;
+    color: aliceblue;
+}
+.cont5{
+    padding-top: 40px !important;
+    height: 250px !important;
+}
+.footer{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,77,152,1) 57%, rgba(0,212,255,1) 100%) !important;
+}
+.pend{
+    color: aliceblue!important;
+}
+.nav-item{
+    margin:10px;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+@media (max-width: 1200px) {
+    .container {
+        padding-top: 100px !important; /* Adjust the value based on your design */
+    }
+
+    .H1 {
+        padding-bottom: 40px; /* Adjust the value based on your design */
+    }
+
+    .parag {
+        padding: 0; /* Remove or adjust the padding for smaller screens */
+    }
+}
+/* Media query for screens between 1200px and 1450px */
+@media (min-width: 1200px) and (max-width: 1650px) {
+    .container {
+        padding-top: 150px !important; /* Adjust the value based on your design */
+    }
+
+    .H1 {
+        padding-bottom: 50px; /* Adjust the value based on your design */
+    }
+
+    .parag {
+        padding: 0; /* Remove or adjust the padding for this range */
+    }
+}
+@media (max-width:992px){
+    .mid{
+        height: 1270px !important;
+    }
+}
+
+
+
+
+
+
+
+
