@@ -88,6 +88,26 @@ a{
         height: 1270px !important;
     }
 }
+@media (max-width:770px){
+    .mid{
+        height: 1150px !important;
+    }
+}
+@media (max-width:497px){
+    .mid{
+        height: 1250px !important;
+    }
+}
+@media (max-width:417px){
+    .mid{
+        height: 1350px !important;
+    }
+}
+@media (max-width:355px){
+    .mid{
+        height: 1650px !important;
+    }
+}
 
 
 
