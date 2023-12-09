@@ -108,7 +108,11 @@ a{
         height: 1650px !important;
     }
 }
-
+@media (min-width: 1500px) {
+  #mainParagraph{
+    padding: 0 400px !important;
+  }
+}
 
 
 
